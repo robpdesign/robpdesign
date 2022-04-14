@@ -1,7 +1,5 @@
 <b>Doin' stuff on Github.</b></br>
-Leading product design teams.
-
-![image](https://user-images.githubusercontent.com/94328181/163314387-6fc78f33-7984-4052-aff4-c80353714332.png)
+Currently an Experience Design Manager from AUS. I lead product design teams in crafting polished software and web experiences. ⚡
 
 <!---
 robpdesign/robpdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
