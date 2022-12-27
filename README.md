@@ -4,7 +4,7 @@ I'm an experience designer based in Sydney. I'm interested in design systems, de
 
 I'm currently working at Westpac Group as a Design Manager to grow our financial capabilities.
 
-/robp.me
+/robp.me </br>
 @robpignone on Twitter
 
 👊
