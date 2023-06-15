@@ -2,7 +2,7 @@ Hello, I’m Rob.
 
 I'm an experience designer based in Sydney. I'm interested in design systems, design ops and simple, under-engineering.
 
-I'm currently working at Westpac Group as an Experience Design Manager to grow our financial capabilities.
+I'm currently working at Westpac Group as an Experience Design Leader to grow our financial capabilities.
 
 /robp.me </br>
 @robpignone on Twitter
